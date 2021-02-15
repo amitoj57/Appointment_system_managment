@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "database"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "ASP"
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "Appointment_system_managment_Database"
+    }
+  }
+}
